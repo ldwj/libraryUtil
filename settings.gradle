@@ -1,0 +1,2 @@
+include ':app', ':libraryUtil'
+rootProject.name='BaseUtil'

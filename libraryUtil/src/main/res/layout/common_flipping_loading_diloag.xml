@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:padding="10dp"
+    android:orientation="horizontal"
+    android:background="@drawable/shape_toast_bg" >
+
+    <com.ldwj.library.util.flippingloadingdialog.FlippingImageView
+        android:id="@+id/loadingdialog_fiv_icon"
+        android:layout_width="32dip"
+        android:layout_height="32dip"
+        android:src="@drawable/ic_logo_blue" />
+
+    <TextView
+        android:id="@+id/loadingdialog_htv_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:gravity="left|center"
+        android:textColor="@color/blue_light_color"
+        android:textSize="14sp" />
+
+</LinearLayout>

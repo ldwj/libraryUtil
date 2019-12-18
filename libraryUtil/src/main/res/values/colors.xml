@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_light_color">#ff4ca6f2</color>
+    <color name="text_color">#ff434343</color>
+
+    <!--loading 弹框的透明背景颜色-->
+    <color name="transparent">#00000000</color>
+    <!--stepview-->
+    <color name="uncompleted_color">#A3E0D9</color>
+    <color name="uncompleted_text_color">#F8F8F8</color>
+</resources>
